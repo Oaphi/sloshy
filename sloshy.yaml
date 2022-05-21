@@ -95,6 +95,9 @@ rooms:
    - name: "Matter Modeling: Q-Chem software"
      id: 109797
      contact: user1271772 (1327177)
+   - name: "Sustainable Living"
+     id: 7310
+     contact: Nic (64473)
    - name: "Area 51: Matter Modeling Proposal"
      id: 104555
      contact: user1271772 (1327177)
